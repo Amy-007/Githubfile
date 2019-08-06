@@ -1,6 +1,4 @@
-# SSMLearning
-这里是我学习Java Web框架的地方, 对应博客地址:<br>
-http://blog.csdn.net/menglanyingfei/article/category/7413164
+# SSMLearning测试用
 <br><br>
 这里是目录:<br>
 spring_day01  Spring Ioc<br>
